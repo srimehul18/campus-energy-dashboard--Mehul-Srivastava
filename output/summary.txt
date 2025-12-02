@@ -1,0 +1,13 @@
+Campus Energy Use Summary - K.R. Mangalam University
+--------------------------------------------------
+Total campus consumption (period): 91688.76 kWh
+Highest consuming building: Engg Block (36328.58 kWh)
+Peak load timestamp: 2024-01-09 17:00:00 (127.61 kWh)
+
+Average daily load (all buildings combined): 739.43 kWh
+Average weekly load (all buildings combined): 4584.44 kWh
+
+Observation: Daily usage is generally higher on working days and 
+drops slightly on weekends. Buildings like Engineering Block and 
+Hostel show consistently higher energy use compared to Admin Block 
+and Library, indicating lab equipment and residential usage.

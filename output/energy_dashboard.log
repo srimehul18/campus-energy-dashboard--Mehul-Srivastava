@@ -1,0 +1,54 @@
+2025-12-02 17:20:57,127 - INFO - === Campus Energy Dashboard Script Started ===
+2025-12-02 17:20:57,128 - INFO - Starting data ingestion from: C:\Users\Mehul Srivastava\Desktop\Capstone Project\data
+2025-12-02 17:20:57,128 - INFO - Reading file: admin_block.csv
+2025-12-02 17:20:57,151 - INFO - Reading file: engg_block.csv
+2025-12-02 17:20:57,155 - INFO - Reading file: hostel.csv
+2025-12-02 17:20:57,159 - INFO - Reading file: library.csv
+2025-12-02 17:20:57,164 - INFO - Combined dataframe shape: (2976, 3)
+2025-12-02 17:20:57,374 - INFO - OOP Reports:
+      building  total_kwh   mean_kwh  min_kwh  max_kwh
+0  Admin Block   10770.97  14.477110     4.00    40.69
+1   Engg Block   36328.58  48.828737    10.00   127.61
+2      Library   16691.50  22.434812     5.38    45.79
+3       Hostel   27897.71  37.496922     7.00    94.72
+2025-12-02 17:20:58,160 - INFO - Dashboard saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\dashboard.png
+2025-12-02 17:20:58,191 - INFO - Cleaned data saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\cleaned_energy_data.csv
+2025-12-02 17:20:58,191 - INFO - Building summary saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\building_summary.csv
+2025-12-02 17:20:58,194 - INFO - Summary report saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\summary.txt
+2025-12-02 17:20:58,195 - INFO - === Campus Energy Dashboard Script Finished ===
+2025-12-02 19:30:25,462 - INFO - === Campus Energy Dashboard Script Started ===
+2025-12-02 19:30:25,462 - INFO - Starting data ingestion from: C:\Users\Mehul Srivastava\Desktop\Capstone Project\data
+2025-12-02 19:30:25,463 - INFO - Reading file: admin_block.csv
+2025-12-02 19:30:25,485 - INFO - Reading file: engg_block.csv
+2025-12-02 19:30:25,490 - INFO - Reading file: hostel.csv
+2025-12-02 19:30:25,495 - INFO - Reading file: library.csv
+2025-12-02 19:30:25,501 - INFO - Combined dataframe shape: (2976, 3)
+2025-12-02 19:30:25,731 - INFO - OOP Reports:
+      building  total_kwh   mean_kwh  min_kwh  max_kwh
+0  Admin Block   10770.97  14.477110     4.00    40.69
+1   Engg Block   36328.58  48.828737    10.00   127.61
+2      Library   16691.50  22.434812     5.38    45.79
+3       Hostel   27897.71  37.496922     7.00    94.72
+2025-12-02 19:30:26,569 - INFO - Dashboard saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\dashboard.png
+2025-12-02 19:30:26,601 - INFO - Cleaned data saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\cleaned_energy_data.csv
+2025-12-02 19:30:26,601 - INFO - Building summary saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\building_summary.csv
+2025-12-02 19:30:26,604 - INFO - Summary report saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\summary.txt
+2025-12-02 19:30:26,604 - INFO - === Campus Energy Dashboard Script Finished ===
+2025-12-03 01:06:14,120 - INFO - === Campus Energy Dashboard Script Started ===
+2025-12-03 01:06:14,121 - INFO - Starting data ingestion from: C:\Users\Mehul Srivastava\Desktop\Capstone Project\data
+2025-12-03 01:06:14,122 - INFO - Reading file: admin_block.csv
+2025-12-03 01:06:14,149 - INFO - Reading file: engg_block.csv
+2025-12-03 01:06:14,155 - INFO - Reading file: hostel.csv
+2025-12-03 01:06:14,160 - INFO - Reading file: library.csv
+2025-12-03 01:06:14,168 - INFO - Combined dataframe shape: (2976, 3)
+2025-12-03 01:06:14,403 - INFO - OOP Reports:
+      building  total_kwh   mean_kwh  min_kwh  max_kwh
+0  Admin Block   10770.97  14.477110     4.00    40.69
+1   Engg Block   36328.58  48.828737    10.00   127.61
+2      Library   16691.50  22.434812     5.38    45.79
+3       Hostel   27897.71  37.496922     7.00    94.72
+2025-12-03 01:06:15,418 - INFO - Dashboard saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\dashboard.png
+2025-12-03 01:06:15,444 - INFO - Cleaned data saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\cleaned_energy_data.csv
+2025-12-03 01:06:15,444 - INFO - Building summary saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\building_summary.csv
+2025-12-03 01:06:15,448 - INFO - Summary report saved to C:\Users\Mehul Srivastava\Desktop\Capstone Project\output\summary.txt
+2025-12-03 01:06:15,448 - INFO - === Campus Energy Dashboard Script Finished ===
