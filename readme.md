@@ -70,9 +70,9 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy matplotlib
-
+```
 Then run script
-python energy_dashboard.py
+**python energy_dashboard.py**
 All results will appear automatically in output/ folder.
 ---
 ## Developed By:
