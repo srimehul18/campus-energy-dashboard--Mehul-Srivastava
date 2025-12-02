@@ -17,21 +17,35 @@ This project analyzes hourly smart meter electricity consumption data for multip
 
 ##  Project Structure
 capstone/
+
 │
+
 ├── data/
+
 │ ├── engg_block.csv
+
 │ ├── library.csv
+
 │ ├── admin_block.csv
+
 │ └── hostel.csv
+
 │
 ├── output/
+
 │ ├── cleaned_energy_data.csv
+
 │ ├── building_summary.csv
+
 │ ├── dashboard.png
+
 │ ├── summary.txt
+
 │ └── energy_dashboard.log
+
 │
 ├── energy_dashboard.py
+
 └── README.md
 
 
@@ -71,9 +85,13 @@ Install dependencies:
 ```bash
 pip install pandas numpy matplotlib
 ```
-Then run script
+
+Then run script:
+
 **python energy_dashboard.py**
+
 All results will appear automatically in output/ folder.
+
 ---
 ## Developed By:
 Mehul Srivastava
